@@ -1,0 +1,19 @@
+.font-bolder {
+    font-family: var(--kanit-bolder), comic-sans;
+    /* font-size: 24px; */
+  }
+
+.font-bold {
+    font-family: var(--kanit-bold), comic-sans;
+    /* font-size: 18px; */
+  }
+
+.font-normal {
+    font-family: var(--kanit-regular), comic-sans;
+    /* font-size: 16px; */
+}
+
+.font-thin {
+    font-family: var(--kanit-thin), comic-sans;
+    /* font-size: 12px; */
+}

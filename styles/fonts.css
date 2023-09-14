@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Radomir-Tinkov-Gilroy-Regular";
+    src: url('/assets/fonts/Radomir-Tinkov-Gilroy-Regular/Radomir-Tinkov-Gilroy-Regular.woff') format('woff'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-Regular/Radomir-Tinkov-Gilroy-Regular.woff2') format('woff2'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-Regular/Radomir-Tinkov-Gilroy-Regular.eot'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-Regular/Radomir-Tinkov-Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-Regular/Radomir-Tinkov-Gilroy-Regular.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Radomir-Tinkov-Gilroy-SemiBold";
+    src: url('/assets/fonts/Radomir-Tinkov-Gilroy-SemiBold/Radomir-Tinkov-Gilroy-SemiBold.woff') format('woff'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-SemiBold/Radomir-Tinkov-Gilroy-SemiBold.woff2') format('woff2'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-SemiBold/Radomir-Tinkov-Gilroy-SemiBold.eot'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-SemiBold/Radomir-Tinkov-Gilroy-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/Radomir-Tinkov-Gilroy-SemiBold/Radomir-Tinkov-Gilroy-SemiBold.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "Kanit-Bold";
+    src: url('/assets/fonts/SF-Pro-Text-Regular/Kanit-Bold.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: "Kanit-Bolder";
+    src: url('/assets/fonts/SF-Pro-Text-Regular/Kanit-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Kanit";
+    src: url("/assets/fonts/SF-Pro-Text-Medium/Kanit-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Kanit-Thin";
+    src: url("/assets/fonts/SF-Pro-Text-Medium/Kanit-Thin.ttf") format("truetype");
+}
